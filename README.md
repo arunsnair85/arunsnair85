@@ -1,6 +1,6 @@
 - 👋 Hi, Arun here.
 - 🌱 currently learning and designing Event driven applications using AWS,Azure
-- 📫 you can reach on my email arunsnair85@gmail.com
+- 📫 Contact arunsnair85@gmail.com
 
 <!---
 arunsnair85/arunsnair85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
