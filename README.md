@@ -1,5 +1,5 @@
 - 👋 Hi, Arun here.
-- 🌱 currently learning and designing Event driven applications using AWS,Azure
+- 🌱 currently learning and designing Event driven applications using AWS
 - Intelligent mobility applications
 - 📫 Contact arunsnair85@gmail.com
 
